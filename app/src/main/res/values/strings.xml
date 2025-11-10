@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">APIConnectApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="search_hint">Search keyword (e.g., technology)</string>
+    <string name="search_button">Search</string>
+    <string name="status_initial">Search for news to get started.</string>
+    <string name="status_empty">No articles found for this query.</string>
+    <string name="status_error_generic">Something went wrong. Please try again.</string>
+    <string name="status_error_network">No internet connection. Check your settings and retry.</string>
+    <string name="toast_enter_query">Enter a keyword to search.</string>
+    <string name="news_item_content_description">Open article in browser</string>
+    <string name="article_untitled">Untitled article</string>
+    <string name="article_no_description">No description available.</string>
+    <string name="source_format">Source: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="invalid_query_message">Invalid query. Please refine your keyword and try again.</string>
+    <string name="rate_limit_message">Rate limit reached. Please wait and try again.</string>
+    <string name="recent_title">Recent searches</string>
+    <string name="recent_empty">No recent searches yet.</string>
+</resources>
